@@ -18,7 +18,7 @@ To get started with python, please follow [these instructions](https://sagol-pyt
 
 <!-- ## Homework Assignments -->
 
-<!-- - [Assignment 1](assignments/assignment1/HW1.md) -->
+- [Assignment 1](assignments/assignment1/HW1.md)
 <!-- - [Assignment 2](assignments/assignment2/README.md) -->
 <!-- - [Assignment 3](https://classroom.github.com/a/nYTv8cUx) -->
 <!-- - [Assignment 4](https://classroom.github.com/a/dswhOPYU) -->
